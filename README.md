@@ -50,4 +50,4 @@ Resposta: "whoami"
 
 Na linha 12.556, se decodificarmos **%27net%20user%20hacker%20asd123!!%20/add%27** da base64, ele nos dará 'net user hacker asd123!! /add'
 
->Foi isso, qualquer dúvida, pode me chamar no meu <a href= (www.linkedin.com/in/iwnetoo)>LinkedIn!</a>
+>Foi isso, qualquer dúvida, pode me chamar no meu <a href= "https://www.linkedin.com/in/iwnetoo/">LinkedIn!</a>
