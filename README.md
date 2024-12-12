@@ -15,7 +15,7 @@ Observa-se na linha 89, no campo user-agent, que a ferramenta usada pelo atacant
 ![Captura de tela 2024-12-12 132520](https://github.com/user-attachments/assets/498a2f7b-5b2f-47bd-96e9-d55f9825dff8)
 
 Foi identificado no log, que havia vários nomes de diretórios que o invasor tentou acessar usando uma ferramenta automatizada. No entanto, foi encontrado um código de status 400, significando um erro do lado do cliente, logo dizendo que os diretórios não existem.
-Rescpondendo a questão, a técnica usada pelo atacante foi o **Directory Brute Force (Força Bruta de Diretórios)**.
+Respondendo a questão, a técnica usada pelo atacante foi o **Directory Brute Force (Força Bruta de Diretórios)**.
 
 **3)Qual é o terceiro tipo de ataque após a descoberta da listagem de diretórios?**
 
