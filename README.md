@@ -1,5 +1,8 @@
 # Investigando Web Attack
 
+
+[![Traduzir para Inglês](https://img.shields.io/badge/Translate-English-blue)](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https://github.com/iwneto/Investigando-Web-Attack/edit/main/README.md)
+
 O caso a ser investigado será de um log obtido de um servidor que sofreu um ataque recentemente - Desafio dado por LetsDefend (recomendado clicar nas imagens para melhor compreensão)
 
 >O arquivo dos Logs podem ser encontrados na máquina virtual da plataforma, segue abaixo a análise e a resolução das questões:
